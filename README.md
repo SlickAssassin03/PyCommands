@@ -43,4 +43,5 @@ The above program will allow you too enter anything you want but will return 'co
 
 ### Links
 - [Documentation](https://pycommands.readthedocs.io/en/latest/)
+- [PyPI Release](https://pypi.org/project/PyCommandsTool/)
 - Latest Repl.it Discussion *not yet made...*
